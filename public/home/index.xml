@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Alex Yen</title>
+    <link>https://alexlwyen.com/home/</link>
+    <description>Recent content in Homes on Alex Yen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://alexlwyen.com/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://alexlwyen.com/home/home_page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexlwyen.com/home/home_page/</guid>
+      <description>Hey - I&amp;rsquo;m Alex! I&amp;rsquo;m a first year CSE PhD student at UCSD, advised by Pat Pannuto.</description>
+    </item>
+    
+  </channel>
+</rss>

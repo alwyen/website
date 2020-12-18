@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex Yen</title>
-    <link>https://alexlwyen.com/</link>
-    <description>Recent content on Alex Yen</description>
+    <title>Random Thoughts on Alex Yen</title>
+    <link>https://alexlwyen.com/writing/random-thoughts/</link>
+    <description>Recent content in Random Thoughts on Alex Yen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Dec 2020 23:35:02 -0500</lastBuildDate><atom:link href="https://alexlwyen.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 23:35:02 -0500</lastBuildDate><atom:link href="https://alexlwyen.com/writing/random-thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random Thoughts 1</title>
       <link>https://alexlwyen.com/writing/random-thoughts/rt1/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://alexlwyen.com/writing/random-thoughts/rt1/</guid>
       <description>11:35pm It&amp;rsquo;s kinda been weird lately - I felt really anxious but not stressed, and then it felt really weird to not be stressed so(?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://alexlwyen.com/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexlwyen.com/publications/</guid>
-      <description>Publications  Zeal Shah, Alex Yen, Ajey Pandey, and Jay Taneja.</description>
     </item>
     
   </channel>

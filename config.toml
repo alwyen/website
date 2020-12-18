@@ -10,13 +10,13 @@ enableEmoji = true
 
 [params]
 author = "Alex Yen"
-description = "PhD Student at UCSD" #replace "My Blog" with different text
+description = "Email: alyen@ucsd.edu"
 
 ## Set one of:
 # gravatar = "soho@example.com"
 profilePicture = "images/yen_website.jpg"
 
-copyright = "Author Name"
+copyright = "Alex Yen"
 ##license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
@@ -24,44 +24,39 @@ licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 # themeColor = "#fc2803"
 
 ## Set custom CSS and/or JS to override site defaults.
-customCss = ["css/blog.css"]
-customJs = ["js/blog.js"]
+customCss = ["css/website.css"]
+customJs = ["js/website.js"]
 
   ## Set as many as you want.
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
-  url = "#"
+  url = "https://www.linkedin.com/in/alex-lw-yen"
 
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "#"
-
-  [[params.socialIcons]]
-  icon = "fa-twitter"
-  title = "Twitter"
-  url = "#"
+  url = "https://github.com/alwyen"
 
 [menu]
 
   [[menu.main]]
-  name = "About"
-  identifier = "about"
-  weight = 100
-  url = "/about/"
+  name = "Publications"
+  weight = 300
+  identifier = "publications"
+  url = "/publications/"
 
   [[menu.main]]
   name = "Writing"
-  weight = 200
+  weight = 400
   identifier = "writing"
   url = "/writing/"
 
   [[menu.main]]
-  name = "Stuff"
-  weight = 300
-  identifier = "stuff"
-  url = "/stuff/"
+  name = "CV"
+  weight = 500
+  identifier = "CV"
+  url = "https://alexlwyen.com/CV/AlexYen_CV.pdf"
 
 [taxonomies]
   category = "categories"

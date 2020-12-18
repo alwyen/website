@@ -9,6 +9,11 @@
     color: #000;
 }
 
+.lead {
+    font-size: 0.75rem;
+    font-weight: 300;
+}
+
 body {
     color: #515151;
     background-color: #faf8f8;

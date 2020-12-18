@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writings on Alex Yen</title>
+    <title>Writing on Alex Yen</title>
     <link>https://alexlwyen.com/writing/</link>
-    <description>Recent content in Writings on Alex Yen</description>
+    <description>Recent content in Writing on Alex Yen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2020 21:45:58 -0700</lastBuildDate><atom:link href="https://alexlwyen.com/writing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test_post</title>
-      <link>https://alexlwyen.com/writing/test_post/</link>
-      <pubDate>Thu, 15 Oct 2020 21:45:58 -0700</pubDate>
-      
-      <guid>https://alexlwyen.com/writing/test_post/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 10 Dec 2020 23:35:02 -0500</lastBuildDate><atom:link href="https://alexlwyen.com/writing/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

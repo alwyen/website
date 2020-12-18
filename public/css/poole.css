@@ -319,11 +319,11 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Meta data line below post title */
-.post-date {
+/* .post-date {
   display: block;
   margin-bottom: 1rem;
   color: #757575;
-}
+} */
 
 /* Related posts */
 .related {
