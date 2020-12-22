@@ -177,12 +177,12 @@ footer a,
   margin-top: 1rem;
 }
 
-/* .read-more-link a {
+.read-more-link a {
   padding: 8px 16px;
   border: 1px solid;
   border-color: #49757a;
   border-radius: 4px;
-} */
+}
 
 .read-more-link a:hover {
   text-decoration: none;
