@@ -4,4 +4,4 @@ draft: False
 weight: 0
 ---
 
-FYI: Content contains profanity
+Spontaneous thoughts in my head that I need to get out
