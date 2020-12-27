@@ -6,11 +6,11 @@ draft: false
 
 <br />
 
-2:13am
+2:13am, 12/15/20
 
 After canceling my THIRD (research) meeting in this TEN week quarter, I'm becoming a bit scared – scared that I've become so ingrained in my undergrad habits that I’m having a hard time changing now. It seems pretty contradictory and even a bit petty to be worried about this – the amount of change I’ve went through these past four years is honestly pretty insane, and my life pretty much revolves around (sometimes even sporadic) changes at this point.
 
-Long story short, I had issues with confidence prior to college and kinda did shitty as a result of that, and I made lots of improvements to do better because I just held so many regrets about not being good enough; doing well in class has sorta become ingrained in my personality now. But in graduate school, I’ve been told by people to put more focus on research and less focus on classes. That’s the dilemma I’m facing right now – I tried to adapt to that early on and was doing that for maybe about 2 – 4 weeks (wow, that’s pretty lame in retrospect) until I got my first poor mark. I immediately snapped back into my old habits and went back into putting _way_ too much time into classes at the cost of less work on research.
+Long story short, I didn't do so well in school prior to college, and I changed myself a lot to do better because I just held so many regrets about not being good enough; doing well in class has sorta become ingrained in my personality now. But in graduate school, I’ve been told by people to put more focus on research and less focus on classes. That’s the dilemma I’m facing right now – I tried to adapt to that early on and was doing that for maybe about 2 – 4 weeks (wow, that’s pretty lame in retrospect) until I got my first poor mark. I immediately snapped back into my old habits and went back into putting _way_ too much time into classes at the cost of less work on research.
 
 That’s what I’m worried about at this point. I found out that I’m doing worse than most people in my computer vision class (but okay, I’ve found out that there’s definitely some cheating going on) and immediately felt obligated to do better, which mean more effort into class and less into research; that lead me to cancelling a couple meetings this quarter and made me feel REALLY shitty about it (why wouldn’t it?).
 

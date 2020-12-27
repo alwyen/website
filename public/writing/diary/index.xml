@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diary (Content to be filled soon!) on Alex Yen</title>
+    <title>Diary on Alex Yen</title>
     <link>https://alexlwyen.com/writing/diary/</link>
-    <description>Recent content in Diary (Content to be filled soon!) on Alex Yen</description>
+    <description>Recent content in Diary on Alex Yen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2020 21:45:58 -0700</lastBuildDate><atom:link href="https://alexlwyen.com/writing/diary/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://alexlwyen.com/writing/diary/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
