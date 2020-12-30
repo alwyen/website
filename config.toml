@@ -10,6 +10,7 @@ enableEmoji = true
 
 [params]
 author = "Alex Yen"
+pronouns = "(he/him/his)"
 description = "Email: alyen@ucsd.edu"
 
 ## Set one of:

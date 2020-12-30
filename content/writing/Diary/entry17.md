@@ -1,7 +1,8 @@
 ---
 title: "Entry 17"
 date: 2020-12-26T22:57:48-05:00
-draft: true
+draft: false
+weight: -17
 ---
 
 <br />
