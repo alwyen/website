@@ -4,4 +4,4 @@ draft: False
 weight: 0
 ---
 
-Spontaneous thoughts in my head that I need to get out
+Just random things/thoughts in my life
