@@ -9,3 +9,9 @@ I somehow decided to share my *entire* (70k+ word) diary with a couple friends o
 So here are parts of my diary – unfortunately, I won't be able to share all of it, but I think (or hope) some of the entries I put up will be interesting and enjoyable.
 
 (For the sake of anonymizing people in my diary, I'll be replacing names w.r.t. each entry – pseudonyms won't persist between entries. Also, please understand that people change – my diary goes back 4+ years, and what I wrote about might be of the distant past; I don't mean to personally attack anyone, and I'm merely sharing things from my perspective/personal life.)
+
+...
+
+Edit 4/1/21: Not sure if anyone has tried to read this stuff recently/a while back, but I realized that *Entry 30* was a pretty bad place to go on a hiatus... I might appear as a stuck up person but I swear I'm not like that in real life lol... my mindset from that time period stemed from a larger issue in my past that I've been hoping to share (but I just got busy and couldn't write about it). I've been also second guessing about whether I should continue uploading parts of my diary or discontinue this idea entirely – maybe I'm not as "brave" as I thought I was to put my life out on the internet. After all, this is all "personal" writing haha
+
+It's not meant to make it seem like I'm looking down on the world and whatnot, but rather share some things about my past that I think shaped who I am/who I've become today (which is hopefully not a stuck up and arrogant person lol)

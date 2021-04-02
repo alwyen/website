@@ -1,5 +1,5 @@
 ---
-title: "Random Thoughts 4"
+title: "RT4"
 date: 2020-12-31T13:07:09-08:00
 draft: false
 ---
