@@ -57,7 +57,7 @@ customJs = ["js/website.js"]
   name = "CV"
   weight = 500
   identifier = "CV"
-  url = "https://alexlwyen.com/CV/AlexYen_CV.pdf"
+  url = "https://www.alexlwyen.com/CV/AlexYen_CV_11-26-21.pdf"
 
 [taxonomies]
   category = "categories"

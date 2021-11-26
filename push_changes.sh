@@ -11,6 +11,9 @@ hugo -t soho # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 
+# Pull
+git pull
+
 # Add changes to git.
 git add .
 
