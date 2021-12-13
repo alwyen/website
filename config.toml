@@ -1,4 +1,4 @@
-baseURL = "https://alexlwyen.com"
+baseURL = "https://www.alexlwyen.com/"
 languageCode = "en-us"
 title = "Alex Yen"
 theme = "soho"
@@ -29,15 +29,20 @@ customCss = ["css/website.css"]
 customJs = ["js/website.js"]
 
   ## Set as many as you want.
-  [[params.socialIcons]]
-  icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "https://www.linkedin.com/in/alex-lw-yen"
+#  [[params.socialIcons]]
+#  icon = "fa-linkedin"
+#  title = "Linkedin"
+#  url = "https://www.linkedin.com/in/alex-lw-yen"
 
-  [[params.socialIcons]]
-  icon = "fa-github"
-  title = "GitHub"
-  url = "https://github.com/alwyen"
+#  [[params.socialIcons]]
+#  icon = "fa-github"
+#  title = "GitHub"
+#  url = "https://github.com/alwyen"
+  
+#  [[params.socialIcons]]
+#  icon = "ai-google-scholar-square"
+#  title = "GoogleScholar"
+#  url = "https://scholar.google.com/citations?user=F8lPEiIAAAAJ&hl=en"
 
 [menu]
 
@@ -48,16 +53,21 @@ customJs = ["js/website.js"]
   url = "/publications/"
 
   [[menu.main]]
-  name = "Writing"
+  name = "Google Scholar"
   weight = 400
-  identifier = "writing"
-  url = "/writing/"
+  url = "https://scholar.google.com/citations?user=F8lPEiIAAAAJ&hl=en"
 
   [[menu.main]]
   name = "CV"
   weight = 500
   identifier = "CV"
   url = "https://www.alexlwyen.com/CV/AlexYen_CV_11-26-21.pdf"
+
+    [[menu.main]]
+  name = "Misc"
+  weight = 600
+  identifier = "misc"
+  url = "/misc/"
 
 [taxonomies]
   category = "categories"
