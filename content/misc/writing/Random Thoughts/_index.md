@@ -1,6 +1,6 @@
 ---
 title: "Random Thoughts"
-draft: False
+draft: True
 weight: 0
 ---
 
