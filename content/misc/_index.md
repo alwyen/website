@@ -1,3 +1,3 @@
-## Miscellaneous Hobbies and Things
+# Miscellaneous Things
 
-<!-- ![asdf](asdf.jpg) -->
+Just wanted to share a bit about myself here :)
