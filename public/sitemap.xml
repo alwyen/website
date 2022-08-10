@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.alexlwyen.com/misc/pictures/cooking/</loc>
+  </url><url>
     <loc>https://www.alexlwyen.com/misc/pictures/</loc>
+  </url><url>
+    <loc>https://www.alexlwyen.com/misc/pictures/vibes/</loc>
   </url><url>
     <loc>https://www.alexlwyen.com/misc/</loc>
     <priority>0</priority>
@@ -13,6 +17,8 @@
     <loc>https://www.alexlwyen.com/</loc>
   </url><url>
     <loc>https://www.alexlwyen.com/categories/</loc>
+  </url><url>
+    <loc>https://www.alexlwyen.com/misc/writing/grfp/</loc>
   </url><url>
     <loc>https://www.alexlwyen.com/series/</loc>
   </url><url>
