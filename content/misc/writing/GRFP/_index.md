@@ -4,7 +4,7 @@ draft: false
 weight: 0
 ---
 
-Writing these types of essays can feel really daunting -- I think anyone who's written them can say that. But with enough preparation, I honestly feel like any application can be pretty competitive. I would say that just getting ideas down on paper early is pretty important. Sure, your first draft migt be pretty garbage, but polished essays don't manifest overnight. They take many, many weeks of formulating various pieces of information into strong, convincing statements.
+Writing these types of essays can feel really daunting -- I think anyone who's written them can say that. But with enough preparation, I honestly feel like any application can be pretty competitive. I would say that just getting ideas down on paper early is pretty important. Sure, your first draft might not be good, but polished essays don't manifest overnight. They take many, many weeks of formulating various pieces of information into strong, convincing statements.
 
 I'll refrain from saying more as this page isn't really to give advice (plus this page will get pretty cluttered). Please do not hesistate to reach out if you'd like to hear more from me about this! I'm always willing to help out others :)
 
