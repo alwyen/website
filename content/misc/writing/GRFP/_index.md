@@ -1,5 +1,5 @@
 ---
-title: "GRFP Advice and Content"
+title: "GRFP Example Content"
 draft: false
 weight: 0
 ---

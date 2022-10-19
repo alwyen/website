@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GRFP Advice and Content on Alex Yen</title>
+    <title>GRFP Example Content on Alex Yen</title>
     <link>https://www.alexlwyen.com/misc/writing/grfp/</link>
-    <description>Recent content in GRFP Advice and Content on Alex Yen</description>
+    <description>Recent content in GRFP Example Content on Alex Yen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.alexlwyen.com/misc/writing/grfp/index.xml" rel="self" type="application/rss+xml" />
   </channel>

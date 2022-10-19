@@ -1,10 +1,8 @@
 ---
-title: "Vibes"
+title: "Artsy/Misc Pics"
 draft: false
 weight: 10
 ---
-
-Different pictures have different vibes and I just wanted to share some of what I've taken recently
 
 ![SF_ocean_sunset](/images/misc/SF_ocean_sunset.jpg)
 ![shores_sunset](/images/misc/shores_sunset.jpg)

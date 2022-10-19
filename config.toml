@@ -61,7 +61,7 @@ customJs = ["js/website.js"]
   name = "CV"
   weight = 500
   identifier = "CV"
-  url = "https://www.alexlwyen.com/CV/AlexYen_CV_11-26-21.pdf"
+  url = "https://www.alexlwyen.com/CV/yen_cv_9_22_22.pdf"
 
     [[menu.main]]
   name = "Misc"
