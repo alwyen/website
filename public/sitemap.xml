@@ -8,6 +8,9 @@
   </url><url>
     <loc>https://www.alexlwyen.com/misc/pictures/</loc>
   </url><url>
+    <loc>https://www.alexlwyen.com/grfp_content/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://www.alexlwyen.com/misc/</loc>
     <priority>0</priority>
   </url><url>
@@ -17,8 +20,6 @@
     <loc>https://www.alexlwyen.com/</loc>
   </url><url>
     <loc>https://www.alexlwyen.com/categories/</loc>
-  </url><url>
-    <loc>https://www.alexlwyen.com/misc/writing/grfp/</loc>
   </url><url>
     <loc>https://www.alexlwyen.com/series/</loc>
   </url><url>

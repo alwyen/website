@@ -58,16 +58,22 @@ customJs = ["js/website.js"]
   url = "https://scholar.google.com/citations?user=F8lPEiIAAAAJ&hl=en"
 
   [[menu.main]]
-  name = "CV"
-  weight = 500
-  identifier = "CV"
-  url = "https://www.alexlwyen.com/CV/yen_cv_9_22_22.pdf"
+  name = "GRFP Content"
+  weight = 450
+  identifier = "grfp"
+  url = "/grfp_content/"
 
-    [[menu.main]]
+  [[menu.main]]
   name = "Misc"
-  weight = 600
+  weight = 500
   identifier = "misc"
   url = "/misc/"
+
+  [[menu.main]]
+  name = "CV"
+  weight = 600
+  identifier = "CV"
+  url = "https://www.alexlwyen.com/CV/yen_cv.pdf"
 
 [taxonomies]
   category = "categories"

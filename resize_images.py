@@ -37,4 +37,4 @@ def resize_images(new_width):
         img.save(img_save_path)
 
 if __name__ == '__main__':
-    resize_images(700)
+    resize_images(600)
