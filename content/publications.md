@@ -1,5 +1,8 @@
 # Publications
 
+>Alex Bellon, **Alex Yen**, and Pat Pannuto. 2023. TagAlong: Free, Wide-Area Data-Muling and Services. In The 24th International Workshop on Mobile Computing Systems and Applications (HotMobile ’23), February 22–23, 2023, Newport Beach, CA, USA.
+\[[Paper Link](https://www.alexlwyen.com/papers/bellon2023tagalong.pdf)\]
+
 >**Alex Yen**, Zeal Shah, Ben Ochoa, Pat Pannuto, and Jay Taneja. “EffiSenseSee: Towards Classifying Light Bulb Types and Energy Efficiency with Camera-Based Sensing.” In the 9th ACM International Conference on Systems for Energy-Efficient Built Environments, Cities, and Transportation (BuildSys’22), November 2022.  
 \[[Paper Link](https://www.alexlwyen.com/papers/yen2022EffiSenseSee.pdf)\]
 

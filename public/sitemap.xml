@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.alexlwyen.com/misc/cooking/</loc>
+  </url><url>
     <loc>https://www.alexlwyen.com/misc/pictures/scenic_misc/</loc>
   </url><url>
-    <loc>https://www.alexlwyen.com/misc/pictures/cooking/</loc>
-  </url><url>
     <loc>https://www.alexlwyen.com/misc/pictures/</loc>
+  </url><url>
+    <loc>https://www.alexlwyen.com/misc/cooking/cooking_self/</loc>
+  </url><url>
+    <loc>https://www.alexlwyen.com/misc/cooking/cooking_friends/</loc>
   </url><url>
     <loc>https://www.alexlwyen.com/grfp_content/</loc>
     <priority>0</priority>

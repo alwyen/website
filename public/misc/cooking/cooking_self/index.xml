@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>some things I&#39;ve cooked on Alex Yen</title>
+    <link>https://www.alexlwyen.com/misc/cooking/cooking_self/</link>
+    <description>Recent content in some things I&#39;ve cooked on Alex Yen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.alexlwyen.com/misc/cooking/cooking_self/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
