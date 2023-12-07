@@ -6,7 +6,12 @@ weight: 10
 
 Some of the (more presentable) things I've cooked
 
+
+![台湾牛肉面](/images/misc/台湾牛肉面.jpg)
+![steakkk](/images/misc/steakkk.jpg)
+![sir_beef_wellington](/images/misc/sir_beef_wellington.jpg)
 ![三杯鸡](/images/misc/三杯鸡.jpg)
+![some_stir_fry_noodles_that_looks_tasty](/images/misc/some_stir_fry_noodles_that_looks_tasty.jpg)
 ![eggs_toast](/images/misc/eggs_toast.jpg)
 ![豆腐干肉丝](/images/misc/豆腐干肉丝.jpg)
 ![卤肉](/images/misc/卤肉.jpg)
@@ -21,7 +26,6 @@ Some of the (more presentable) things I've cooked
 ![回锅肉](/images/misc/回锅肉.jpg)
 ![京酱肉丝](/images/misc/京酱肉丝.jpg)
 ![葱油饼](/images/misc/葱油饼.jpg)
-![牛肉面](/images/misc/牛肉面.jpg)
 ![粉丝_牛肉汤](/images/misc/粉丝_牛肉汤.jpg)
 ![蛋花汤](/images/misc/蛋花汤.jpg)
 ![蛋花汤跟豆腐](/images/misc/蛋花汤跟豆腐.jpg)
@@ -31,7 +35,7 @@ Some of the (more presentable) things I've cooked
 ![榨菜肉丝](/images/misc/榨菜肉丝.jpg)
 ![curry](/images/misc/curry.jpg)
 ![kimchi_stew](/images/misc/kimchi_stew.jpg)
-![steak](/images/misc/steak.jpg)
+<!-- ![steak](/images/misc/steak.jpg) -->
 ![chowder](/images/misc/chowder.jpg)
 ![fries](/images/misc/fries.jpg)
 ![carnitas_sandwich](/images/misc/carnitas_sandwich.jpg)
