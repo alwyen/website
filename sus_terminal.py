@@ -1,6 +1,9 @@
 import time
 import webbrowser
 
+for i in range(20):
+    print()
+
 i = input()
 
 server_name = i.split(' ')[1]
@@ -24,9 +27,13 @@ for line in lines:
     print(line, end='')
     time.sleep(0.03)
 
+print()
+
 print('Opening Susnet\'s homepage.')
 
-webbrowser.open('https://www.alexlwyen.com/')
+time.sleep(3)
+
+webbrowser.open('https://www.alexlwyen.com/misc/susnet/')
 
 # i = input()
 

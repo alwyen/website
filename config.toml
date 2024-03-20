@@ -12,6 +12,7 @@ enableEmoji = true
 author = "Alex Yen"
 pronouns = "(he/him/his)"
 description = "Email: alyen@ucsd.edu"
+google_analytics_id="UA-132398315-1"
 
 ## Set one of:
 # gravatar = "soho@example.com"
@@ -92,3 +93,6 @@ customJs = ["js/website.js"]
   noClasses = true # if false, you need to provide you own custom CSS
   style = "monokai"
   tabWidth = 4
+
+[markup.goldmark.renderer]
+  unsafe = true
