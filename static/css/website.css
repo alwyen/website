@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap');
 
 .sidebar {
-    background-color: #b9b9be;
+    background-color: #ffffff;
     color: #000;
 }
 
@@ -16,7 +16,7 @@
 
 body {
     color: #515151;
-    background-color: #faf8f8;
+    background-color: #ffffff;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     text-size-adjust: 100%;
