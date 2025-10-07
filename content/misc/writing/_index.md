@@ -1,6 +1,6 @@
 ---
 title: "Writing"
-draft: false
+draft: true
 weight: 0
 ---
 

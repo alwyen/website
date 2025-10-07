@@ -1,6 +1,6 @@
 ---
 title: "Quotes I love"
-draft: false
+draft: true
 weight: 1000
 ---
 

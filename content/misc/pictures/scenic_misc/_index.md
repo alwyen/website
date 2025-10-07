@@ -4,8 +4,6 @@ draft: false
 weight: 10
 ---
 
-I realized that some of these images are really grainy due to resizing in Python (I couldn't get CSS to work for some reason) :/ I swear the original images look nicer
-
 ![SF_ocean_sunset](/images/misc/SF_ocean_sunset.jpg)
 ![shores_sunset](/images/misc/shores_sunset.jpg)
 ![sunset_pier](/images/misc/sunset_pier.jpg)
